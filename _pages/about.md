@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am Ali Abbasi, a freshly graduated a freshly graduated student with a bachelor’s degree in Computer Engineering from
-Sharif University of Technology.  
+[Sharif University of Technology](https://en.sharif.edu/).  
 
 My research interests, shaped by my diverse background in research and coursework, extend to various aspects
 of Deep Learning and Computer Vision. I am particularly drawn to:
@@ -16,3 +16,6 @@ of Deep Learning and Computer Vision. I am particularly drawn to:
 * Trustworthy Machine Learning
 * Vision and Language
 * Reinforcement Learning
+
+I had the privilege of collaborating with Professor [Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk) at EPFL and Professor [Mahdiyeh Soleymani](https://sharif.edu/~soleymani/) at Sharif University.
+
