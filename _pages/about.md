@@ -17,5 +17,6 @@ of Deep Learning and Computer Vision. I am particularly drawn to:
 * Vision and Language
 * Reinforcement Learning
 
-I had the privilege of collaborating with Professor [Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk) at EPFL and Professor [Mahdiyeh Soleymani](https://sharif.edu/~soleymani/) at Sharif University.
-
+I had the privilege of collaborating with Professor [Sabine Süsstrunk](https://people.epfl.ch/sabine.susstrunk) at EPFL and Professor [Mahdiyeh Soleymani](https://sharif.edu/~soleymani/) at Sharif University. My primary research experiences include:
+* Discovering and addressing Spurious Correlation within a dataset ([MLL](https://sharif.edu/~soleymani/) at Sharif)
+* Dynamic texture synthesis ([IVRL](https://www.epfl.ch/labs/ivrl/) at EPFL)
